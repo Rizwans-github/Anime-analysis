@@ -33,5 +33,5 @@ You can check out the **interactive dashboard** [**here**](https://public.tablea
 
 ## GIF
 #### Give it a few seconds to load or try reloading the tab after a minute or two.
-<img alt=Rank width= 500 src="https://github.com/Rizwans-github/Anime-analysis/assets/141806496/1a2398a6-8494-480f-acc9-4dd90cc10f40">
+<img alt=Rank width= 800 src="https://github.com/Rizwans-github/Anime-analysis/assets/141806496/1a2398a6-8494-480f-acc9-4dd90cc10f40">
 
