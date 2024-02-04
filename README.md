@@ -23,13 +23,13 @@ You can check out the **interactive dashboard** [**here**](https://public.tablea
 
 ## Screenshots
 
-<img alt=Rank width= 500 src="https://github.com/Rizwans-github/Anime-analysis/assets/141806496/38ba9f17-daa1-4c50-b780-e99d91c6bd32">
+<img alt=Rank width= 300 src="https://github.com/Rizwans-github/Anime-analysis/assets/141806496/38ba9f17-daa1-4c50-b780-e99d91c6bd32">
 
-<img alt="Rank Explanation" width= 500 src="https://github.com/Rizwans-github/Anime-analysis/assets/141806496/0efee9d5-3b86-4ef4-9fbe-379c2524c051">
+<img alt="Rank Explanation" width= 300 src="https://github.com/Rizwans-github/Anime-analysis/assets/141806496/0efee9d5-3b86-4ef4-9fbe-379c2524c051">
  
-<img alt=Charts width= 500 src="https://github.com/Rizwans-github/Anime-analysis/assets/141806496/0358d6cc-fc29-4f64-9b4a-5d747f635406">
+<img alt=Charts width= 300 src="https://github.com/Rizwans-github/Anime-analysis/assets/141806496/0358d6cc-fc29-4f64-9b4a-5d747f635406">
 
-<img alt="Charts Explanation" width= 500 src="https://github.com/Rizwans-github/Anime-analysis/assets/141806496/b86d89e0-c9b0-4e60-a972-888108a561ac">
+<img alt="Charts Explanation" width= 300 src="https://github.com/Rizwans-github/Anime-analysis/assets/141806496/b86d89e0-c9b0-4e60-a972-888108a561ac">
 
 ## GIF
 #### Give it a few seconds to load or try reloading the tab after a minute or two.
