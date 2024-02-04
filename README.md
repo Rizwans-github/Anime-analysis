@@ -32,6 +32,7 @@ You can check out the **interactive dashboard** [**here**](https://public.tablea
 <img alt="Charts Explanation" width= 400 src="https://github.com/Rizwans-github/Anime-analysis/assets/141806496/b86d89e0-c9b0-4e60-a972-888108a561ac">
 
 ## GIF
-#### Give it a few seconds to load or try reloading the tab after a minute or two.
+#### Give it a few seconds to load or try reloading the tab after a minute or two or you can check out the **interactive dashboard** [**here**](https://public.tableau.com/views/anime_16938475747820/Titles?:language=en-US&:display_count=n&:origin=viz_share_link).  
+.
 <img alt=Rank width= 800 src="https://github.com/Rizwans-github/Anime-analysis/assets/141806496/1a2398a6-8494-480f-acc9-4dd90cc10f40">
 
